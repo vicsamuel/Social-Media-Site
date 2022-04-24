@@ -6,6 +6,8 @@
 	Full-Stack Social Media Site created with Django and Python for the backend and HTML, CSS, and JS for the frontend.
 </h3>
 
+<img alight="center" src="https://github.com/vicsamuel/Social-Media-Site/blob/master/static/featured.jpg" alt="Social Media">
+
 <p align="center">
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 	<img src="https://img.shields.io/github/repo-size/vicsamuel/Social-Media-Site?color=green"/>
